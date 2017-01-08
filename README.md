@@ -13,3 +13,9 @@
     You just need to fork the repo.
     
 # List Of Projects
+
+## 1. Feed The Snake
+### Introduction
+     This is the basic game on snake and player need to feed the snake.
+     One player will earn the points on the basis of food or materials collected.
+     The game will End when the snake hit a wall.
